@@ -1,1 +1,2 @@
-# HPC
+# HPC homework
+Alexis Canto
